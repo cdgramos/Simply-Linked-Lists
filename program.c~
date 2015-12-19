@@ -124,6 +124,5 @@ int main(){
         if(menu==4) menu=0;
 
     }
-s
     return 0;
 }
